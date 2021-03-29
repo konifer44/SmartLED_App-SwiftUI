@@ -11,6 +11,11 @@
 		E7B7EE4E260E38030080DC9D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B7EE4D260E38030080DC9D /* ContentView.swift */; };
 		E7B7EE50260E38070080DC9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7B7EE4F260E38070080DC9D /* Assets.xcassets */; };
 		E7B7EE53260E38070080DC9D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7B7EE52260E38070080DC9D /* Preview Assets.xcassets */; };
+		E7B7EE5C260E38590080DC9D /* DeviceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B7EE5B260E38590080DC9D /* DeviceView.swift */; };
+		E7B7EE5F260E38790080DC9D /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B7EE5E260E38790080DC9D /* SettingsView.swift */; };
+		E7B7EE62260E38960080DC9D /* BLEManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B7EE61260E38960080DC9D /* BLEManager.swift */; };
+		E7B7EE65260E38B60080DC9D /* LED.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B7EE64260E38B60080DC9D /* LED.swift */; };
+		E7B7EE68260E38D70080DC9D /* Accelerometer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B7EE67260E38D70080DC9D /* Accelerometer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,7 +24,12 @@
 		E7B7EE4D260E38030080DC9D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E7B7EE4F260E38070080DC9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7B7EE52260E38070080DC9D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		E7B7EE54260E38070080DC9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7B7EE5B260E38590080DC9D /* DeviceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceView.swift; sourceTree = "<group>"; };
+		E7B7EE5E260E38790080DC9D /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		E7B7EE61260E38960080DC9D /* BLEManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BLEManager.swift; sourceTree = "<group>"; };
+		E7B7EE64260E38B60080DC9D /* LED.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LED.swift; sourceTree = "<group>"; };
+		E7B7EE67260E38D70080DC9D /* Accelerometer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Accelerometer.swift; sourceTree = "<group>"; };
+		E7B7EE6F260E394A0080DC9D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,8 +64,13 @@
 			children = (
 				E7B7EE4B260E38030080DC9D /* Bluetooth_SmartLEDApp.swift */,
 				E7B7EE4D260E38030080DC9D /* ContentView.swift */,
+				E7B7EE5B260E38590080DC9D /* DeviceView.swift */,
+				E7B7EE5E260E38790080DC9D /* SettingsView.swift */,
+				E7B7EE61260E38960080DC9D /* BLEManager.swift */,
+				E7B7EE64260E38B60080DC9D /* LED.swift */,
+				E7B7EE67260E38D70080DC9D /* Accelerometer.swift */,
+				E7B7EE6F260E394A0080DC9D /* Info.plist */,
 				E7B7EE4F260E38070080DC9D /* Assets.xcassets */,
-				E7B7EE54260E38070080DC9D /* Info.plist */,
 				E7B7EE51260E38070080DC9D /* Preview Content */,
 			);
 			path = Bluetooth_SmartLED;
@@ -139,7 +154,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7B7EE4E260E38030080DC9D /* ContentView.swift in Sources */,
+				E7B7EE65260E38B60080DC9D /* LED.swift in Sources */,
+				E7B7EE5F260E38790080DC9D /* SettingsView.swift in Sources */,
+				E7B7EE62260E38960080DC9D /* BLEManager.swift in Sources */,
+				E7B7EE68260E38D70080DC9D /* Accelerometer.swift in Sources */,
 				E7B7EE4C260E38030080DC9D /* Bluetooth_SmartLEDApp.swift in Sources */,
+				E7B7EE5C260E38590080DC9D /* DeviceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

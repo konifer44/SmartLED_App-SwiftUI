@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct Bluetooth_SmartLEDApp: App {
+    @StateObject var bleManager = BLEManager()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(bleManager)
         }
     }
 }
