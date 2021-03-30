@@ -5,7 +5,7 @@ iPhone is connected via BLE with programmed by myself ESP32 SoC which controls R
   
 ## Quick LED controls
 
- <img src="quickControls.PNG" alt="drawing" width="1300"/>
+ <img src="quickControls.PNG" alt="drawing" width="1000"/>
  
 ## Detailed LED color controls
 
@@ -37,7 +37,7 @@ iPhone is connected via BLE with programmed by myself ESP32 SoC which controls R
 
 ## Hadrware
 
- <img src="device.jpg" alt="drawing" width="1300"/>
+ <img src="device.jpg" alt="drawing" width="800"/>
  
 * [ESP32] - used SoC
 * [ESP-IDF] - used to program ESP32 SoC
