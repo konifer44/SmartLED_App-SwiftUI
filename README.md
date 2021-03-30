@@ -4,6 +4,8 @@
 iPhone is connected via BLE with programmed by myself ESP32 SoC which controls RGB LED(or with few code changes any Bluetooth device You want)
   
 ## This app is used for controll via Bluetooth my ESP32 SmartLED. More info are available in this repository: 
+ <img src="device.jpg" alt="drawing" width="400"/>
+ 
 [ESP32_SmartLED]
 
 ## Quick LED controls
@@ -38,10 +40,7 @@ iPhone is connected via BLE with programmed by myself ESP32 SoC which controls R
 
 
 
-## Hadrware
-
- <img src="device.jpg" alt="drawing" width="400"/>
- 
+## Hadrware 
 * [ESP32] - used SoC
 * [ESP-IDF] - used to program ESP32 SoC
 For more info about hardware connection and programming ESP32 Bluetooth Chip visit this repository:
