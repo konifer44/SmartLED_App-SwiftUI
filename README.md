@@ -5,15 +5,15 @@ iPhone is connected via BLE with programmed by myself ESP32 SoC which controls R
   
 ## Quick LED controls
 
- <img src="quickControls.PNG" alt="drawing" width="1000"/>
+ <img src="quickControls.PNG" alt="drawing" width="800"/>
  
 ## Detailed LED color controls
 
-<img src="detailedControls.PNG" alt="drawing" width="1000"/>
+<img src="detailedControls.PNG" alt="drawing" width="800"/>
 
 ## Settings and connected device info
 
-<img src="settings.PNG" alt="drawing" width="1000"/>
+<img src="settings.PNG" alt="drawing" width="800"/>
 
 ## App funcionality
   - Discover nerby Bluetooth pheriperals
@@ -37,7 +37,7 @@ iPhone is connected via BLE with programmed by myself ESP32 SoC which controls R
 
 ## Hadrware
 
- <img src="device.jpg" alt="drawing" width="800"/>
+ <img src="device.jpg" alt="drawing" width="400"/>
  
 * [ESP32] - used SoC
 * [ESP-IDF] - used to program ESP32 SoC
