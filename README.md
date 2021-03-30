@@ -5,7 +5,8 @@ iPhone is connected via BLE with programmed by myself ESP32 SoC which controls R
   
 ## This app is used for controll via Bluetooth my ESP32 SmartLED. More info are available in this repository: 
 [ESP32_SmartLED]
- <img src="device.jpg" alt="drawing" width="200"/>
+
+ <img src="device.jpg" alt="drawing" width="300"/>
  
 ## Quick LED controls
 
