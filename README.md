@@ -3,6 +3,9 @@
 >This app provides you a convenient way to control RGB LED ambient light. 
 iPhone is connected via BLE with programmed by myself ESP32 SoC which controls RGB LED(or with few code changes any Bluetooth device You want)
   
+## This app is used for controll via Bluetooth my ESP32 SmartLED. More info are available in this repository: 
+[ESP32_SmartLED]
+
 ## Quick LED controls
 
  <img src="quickControls.PNG" alt="drawing" width="800"/>
@@ -54,3 +57,4 @@ For more info about hardware connection and programming ESP32 Bluetooth Chip vis
 [Apple SwiftUI]: <https://developer.apple.com/documentation/swiftui/>
 [ESP-IDF]: <https://docs.espressif.com/projects/esp-idf/en/latest/esp32/>
 [ESP32]: <https://www.espressif.com/en/products/socs/esp32>
+[ESP32_SmartLED]: <https://github.com/konifer44/ESP32_SmartLED>
