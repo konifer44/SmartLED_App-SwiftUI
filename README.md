@@ -43,7 +43,7 @@ iPhone is connected via BLE with programmed by myself ESP32 SoC which controls R
 ## Hadrware 
 * [ESP32] - used SoC
 * [ESP-IDF] - used to program ESP32 SoC
-For more info about hardware connection and programming ESP32 Bluetooth Chip visit this repository:
+* [ESP32_SmartLED_Device] - my device
 
 
 
