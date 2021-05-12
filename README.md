@@ -1,9 +1,9 @@
 # SwiftUI_SmartLED_App
 
->This app provides you a convenient way to control RGB LED ambient light. 
-iPhone is connected via BLE with programmed by myself ESP32 SoC which controls RGB LED(or with few code changes any Bluetooth device You want)
+>App for convenient way to control RGB LED ambient light. 
+iPhone is connected via BLE with ESP32 SoC which controls RGB LED(or with few code changes any Bluetooth device You want)
   
-## This app is used for controll via Bluetooth my ESP32_SmartLED_Device. More info are available in this repository: 
+## This app is used for controll via Bluetooth ESP32_SmartLED_Device. More info are available in this repository: 
 [ESP32_SmartLED_Device]
 
  <img src="device.jpg" alt="drawing" width="300"/>
