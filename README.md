@@ -21,15 +21,15 @@ iPhone is connected via BLE with ESP32 SoC which controls RGB LED(or with few co
 <img src="settings.PNG" alt="drawing" width="800"/>
 
 ## App funcionality
-  - Discover nerby Bluetooth pheriperals
-  - Connect to any Bluetooth pheriperals, discover their services and characteristics. (I can limt app, to search only my device but for educational reasons I decided to allow my app to discover, connect and dive into every Bluetooth devices nerby)
-  - Remember LED device in persistent storage for future autoconnection
-  - Converting SwiftUI color into binary data and sending it via BLE to my device.
-  - Turn ON/OFF LED by quick tap on hanging bulb
-  - Control LED Brightness
-  - Control LED Color via quick color buttons or using new in iOS14 SwiftUI Color Picker
-  - Cool bulb animation thats lights up whole user interface 
-  - Accelerometer support for moving hanging bulb depending on the tilt of the phone.
+  - Discover nerby Bluetooth pheriperals,
+  - Connect to any Bluetooth pheriperals, discover their services and characteristics,
+  - Remember LED device in persistent storage for future autoconnection,
+  - Converting SwiftUI color into binary data and sending it via BLE to my device,
+  - Turn ON/OFF LED by quick tap on hanging bulb,
+  - Control LED Brightness,
+  - Control LED Color via quick color buttons or using new in iOS14 SwiftUI Color Picker,
+  - Cool bulb animation thats lights up whole user interface,
+  - Accelerometer support for moving hanging bulb depending on the tilt of the phone,
   - App supports Light and Dark Mode.
    
 
